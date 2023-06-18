@@ -13,7 +13,6 @@ In this course we are going to learn about basics of solidity programming langua
 
 ### Writing some Smart Contract examples
 These are some examples of smart contracts we are going to develop in this course:
-1. Hello World Contract
-2. Simple Storage Contract
-3. Storage Factory Contract
-4. Fund Me Contract 
+1. Simple Storage Contract
+2. Storage Factory Contract
+3. Fund Me Contract 
